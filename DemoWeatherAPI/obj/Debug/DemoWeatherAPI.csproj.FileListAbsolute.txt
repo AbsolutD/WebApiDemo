@@ -1,0 +1,11 @@
+C:\Users\DMAGYAR\source\repos\DemoWeatherAPI\DemoWeatherAPI\bin\Debug\DemoWeatherAPI.exe.config
+C:\Users\DMAGYAR\source\repos\DemoWeatherAPI\DemoWeatherAPI\bin\Debug\DemoWeatherAPI.exe
+C:\Users\DMAGYAR\source\repos\DemoWeatherAPI\DemoWeatherAPI\bin\Debug\DemoWeatherAPI.pdb
+C:\Users\DMAGYAR\source\repos\DemoWeatherAPI\DemoWeatherAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DMAGYAR\source\repos\DemoWeatherAPI\DemoWeatherAPI\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\DMAGYAR\source\repos\DemoWeatherAPI\DemoWeatherAPI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DMAGYAR\source\repos\DemoWeatherAPI\DemoWeatherAPI\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\DMAGYAR\source\repos\DemoWeatherAPI\DemoWeatherAPI\obj\Debug\DemoWeatherAPI.csprojResolveAssemblyReference.cache
+C:\Users\DMAGYAR\source\repos\DemoWeatherAPI\DemoWeatherAPI\obj\Debug\DemoWeatherAPI.csproj.CoreCompileInputs.cache
+C:\Users\DMAGYAR\source\repos\DemoWeatherAPI\DemoWeatherAPI\obj\Debug\DemoWeatherAPI.exe
+C:\Users\DMAGYAR\source\repos\DemoWeatherAPI\DemoWeatherAPI\obj\Debug\DemoWeatherAPI.pdb
